@@ -1,0 +1,24 @@
+footer{
+    background-color: #D4A373;
+    height: 100%;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.buttonR{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #fefae0;
+    border-radius: 10px;
+    width: 1rem;
+    margin: 10 rem;
+    height: 2rem;
+}

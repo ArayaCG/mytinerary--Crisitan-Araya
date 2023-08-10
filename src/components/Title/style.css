@@ -1,0 +1,31 @@
+.titleBox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 46vh;
+    background-color: #bc6c25;
+    margin-bottom: 1rem;
+}
+
+.titleBox p{
+    width: 77%;
+    color: #fefae0;
+   
+}
+.titleBox h2{
+    width: 40%;
+    color: #fefae0;
+}
+.titleBack{
+    background-image: url('/public/image-alt.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}

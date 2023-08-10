@@ -1,0 +1,14 @@
+.vista{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.imag{
+    width: 30%;
+    padding: 2rem;
+}
+.carta{
+    width: 60%;
+}

@@ -1,0 +1,12 @@
+.carrousel{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+    min-height: 30vh;
+}
+.important{
+    width: 90%;
+}

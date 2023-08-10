@@ -1,0 +1,19 @@
+
+  .linkAnchor{
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .buttonA{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #E9EDC9;
+    border-radius: 10px;
+    height: 2rem;
+  }
+  
